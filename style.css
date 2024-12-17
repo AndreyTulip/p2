@@ -1,1 +1,35 @@
+a{
+  background-color: #365558;
+  border: 1px solid #365558;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 20px;
+  
+}
 
+header{
+  background-color: #AAC159;
+}
+
+main{
+  background-color: #C45A64;
+}
+
+main p{
+  text-align: center;
+}
+
+table{
+   background-color: #7EC3C9;
+  border: 1px solid red;
+  border-collapse: collapse;
+  
+}
+
+td{
+   border: 1px solid red;
+}
+
+footer{
+  background-color: #3A767B;
+}
